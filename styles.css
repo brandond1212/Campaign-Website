@@ -1,0 +1,32 @@
+.container{
+    background-color: red;   
+}
+.donate {background-color: #4CAF50; /* green */   
+  color: white; 
+  padding: 20px 32px; 
+  text-decoration: none; 
+  font-size: 25px;
+}
+.img{
+    display: flex;
+    justify-content:center;
+    border: 50px solid blue;
+    padding: 0px;
+    margin: 10px;
+}
+.t{
+    color:white;
+    background-color:blue;
+}
+h1{
+    color:white;
+    text-align:center;
+}
+p{
+    color:white;
+    text-align:center;
+}
+h3{
+    color:white;
+    text-align:center;
+}
